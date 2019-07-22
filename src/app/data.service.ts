@@ -13,6 +13,6 @@ export class DataService {
   }
 
   firstClick(){
-    console.log('clicked');
+    console.log('clicked for the first time');
   }
 }
